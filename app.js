@@ -65,11 +65,3 @@ app.post("/", function(req, res) {
         console.log("Server is running on port 3000");
       });
 
-
-
-
-//Mailchimp API Key
-//1f587f1b1c8a1f255156feb8e6a7b408-us3
-
-//List ID
-//903f7222f1
